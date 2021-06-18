@@ -3,17 +3,24 @@
 Un petit tableau de bord pour visualiser des CT scan de manière interactive
 
 
-## installation 
+## installation and usage
 
-cloner le repository ou télécharger le fichier explorateur_de_ct_scan.py
+1. Clone the repository 
+
+2. Run 
+
+`pip install -r requirements.txt`
 
 
-pip install -r requirements.txt
+3. Download a dicom image 
 
-Télécharger un CT scan ici et l'ajouter dans le 
+ref: ![https://www.ircad.fr/research/3d-ircadb-01/](https://www.ircad.fr/research/3d-ircadb-01/)
 
 
-![https://nowledgeable.com](https://nowledgeable.com)
+4. Give the path of the **folder** containing the dicom images
+
+
+Made by ![https://nowledgeable.com](https://nowledgeable.com)
 
 
 
