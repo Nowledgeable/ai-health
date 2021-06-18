@@ -14,13 +14,13 @@ Un petit tableau de bord pour visualiser des CT scan de manière interactive
 
 3. Download a dicom image 
 
-ref: ![https://www.ircad.fr/research/3d-ircadb-01/](https://www.ircad.fr/research/3d-ircadb-01/)
+[https://www.ircad.fr/research/3d-ircadb-01/](https://www.ircad.fr/research/3d-ircadb-01/)
 
 
 4. Give the path of the **folder** containing the dicom images
 
 
-Made by ![https://nowledgeable.com](https://nowledgeable.com)
+Made by [https://nowledgeable.com](https://nowledgeable.com)
 
 
 
