@@ -13,7 +13,7 @@ pip install -r requirements.txt
 Télécharger un CT scan ici et l'ajouter dans le 
 
 
-![https://nowledgeable.com](nowledgeable.com)
+![https://nowledgeable.com](https://nowledgeable.com)
 
 
 
