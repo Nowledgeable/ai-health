@@ -3,7 +3,7 @@
 Un petit tableau de bord pour visualiser des CT scan de manière interactive
 
 
-## installation and usage
+## installation
 
 1. Clone the repository 
 
@@ -11,17 +11,22 @@ Un petit tableau de bord pour visualiser des CT scan de manière interactive
 
 `pip install -r requirements.txt`
 
+## usage
 
-3. Download a dicom image 
+
+1. Download a dicom image 
 
 [https://www.ircad.fr/research/3d-ircadb-01/](https://www.ircad.fr/research/3d-ircadb-01/)
 
+2. run 
 
-4. Give the path of the **folder** containing the dicom images
+```
+streamlit run explorateur_de_ct_scan.py
+```
 
+3. Give the path of the **folder** containing the dicom images
 
 Made by [https://nowledgeable.com](https://nowledgeable.com)
-
 
 
 ## Licence
