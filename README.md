@@ -15,8 +15,7 @@ Un petit tableau de bord pour visualiser des CT scan de manière interactive
 
 
 1. Download a dicom image 
-
-[https://www.ircad.fr/research/3d-ircadb-01/](https://www.ircad.fr/research/3d-ircadb-01/)
+[https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/](https://www.ircad.fr/research/data-sets/liver-segmentation-3d-ircadb-01/)
 
 2. run 
 
